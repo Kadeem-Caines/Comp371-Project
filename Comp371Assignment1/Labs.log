@@ -1,0 +1,44 @@
+﻿  Comp371Assignment1.cpp
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\OBJloader.h(20,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\OBJloader.h(31,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\OBJloader.h(39,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\OBJloader.h(44,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\OBJloader.h(50,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\OBJloader.h(60,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\OBJloader.h(63,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\OBJloader.h(66,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\OBJloader.h(69,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(107,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(395,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(396,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(400,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(401,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(402,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(403,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(430,17): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(455,70): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(455,70): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(471,73): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(471,73): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(713,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(723,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(743,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(753,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(756,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(2384,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(2428,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(2478,79): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(2479,84): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(2492,80): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(2493,85): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\Comp371Assignment1.cpp(2925,20): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Labs.vcxproj -> C:\Users\Kadeem Caines\Downloads\Comp371Assignment1 (real)\Comp371Assignment1\Comp371Assignment1\/../Bin/Comp371Assignment1-Debug.exe
